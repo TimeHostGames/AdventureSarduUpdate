@@ -1,4 +1,4 @@
 
 <Version: 1.02>
-/www/js.zip https://github.com/TimeHostGames/AdventureSarduUpdate/tree/main/js
+/www https://github.com/TimeHostGames/AdventureSarduUpdate/tree/main/js
 <End of Version>
