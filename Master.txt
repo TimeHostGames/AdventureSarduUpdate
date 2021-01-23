@@ -1,4 +1,8 @@
 
+<Version: 1.01>
+/data/test.zip https://wordpress.org/latest.zip
+<End of Version>
+
 <Version: 1.02>
 /js/plugins/MOG_TitleHimawari.js https://github.com/TimeHostGames/AdventureSarduUpdate/blob/main/js/plugins/MOG_TitleHimawari.js
 <End of Version>
