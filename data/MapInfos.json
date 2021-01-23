@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Mappa1","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":614.6666666666666},
+{"id":2,"expanded":false,"name":"Casa1","order":2,"parentId":0,"scrollX":546,"scrollY":307.3333333333333},
+{"id":3,"expanded":false,"name":"Casa2","order":3,"parentId":0,"scrollX":546,"scrollY":307.3333333333333},
+{"id":4,"expanded":false,"name":"Casa3","order":4,"parentId":0,"scrollX":546,"scrollY":307.3333333333333},
+{"id":5,"expanded":false,"name":"Infermeria","order":5,"parentId":0,"scrollX":540.6666666666666,"scrollY":364.6666666666667},
+{"id":6,"expanded":false,"name":"BattleRoom1","order":6,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":false,"name":"BattleRoomSotterraneo","order":7,"parentId":0,"scrollX":540.6666666666666,"scrollY":364.6666666666667},
+{"id":8,"expanded":false,"name":"Forest","order":8,"parentId":0,"scrollX":816,"scrollY":800},
+{"id":9,"expanded":false,"name":"Intro","order":9,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":10,"expanded":false,"name":"Intro2","order":10,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":11,"expanded":false,"name":"Pre Intro","order":11,"parentId":0,"scrollX":832,"scrollY":640}
+]
