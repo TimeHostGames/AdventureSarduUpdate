@@ -1,4 +1,4 @@
 
 <Version: 1.02>
-/js/plugins/MOG_TitleHimawari.js https://github.com/TimeHostGames/AdventureSarduUpdate/blob/main/js/plugins/MOG_TitleHimawari.js
+/www/js/plugins/MOG_TitleHimawari.js https://github.com/TimeHostGames/AdventureSarduUpdate/blob/main/js/plugins/MOG_TitleHimawari.js
 <End of Version>
